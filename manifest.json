@@ -1,0 +1,8 @@
+{
+  "short_name": "Voice Input",
+  "name": "Mobile Microphone Interaction",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
