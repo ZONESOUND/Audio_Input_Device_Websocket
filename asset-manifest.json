@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/open-studio/static/css/main.caf43709.chunk.css",
-    "main.js": "/open-studio/static/js/main.80eba061.chunk.js",
-    "main.js.map": "/open-studio/static/js/main.80eba061.chunk.js.map",
+    "main.js": "/open-studio/static/js/main.92d3aaa3.chunk.js",
+    "main.js.map": "/open-studio/static/js/main.92d3aaa3.chunk.js.map",
     "runtime-main.js": "/open-studio/static/js/runtime-main.690290e3.js",
     "runtime-main.js.map": "/open-studio/static/js/runtime-main.690290e3.js.map",
     "static/js/2.3aa00f66.chunk.js": "/open-studio/static/js/2.3aa00f66.chunk.js",
     "static/js/2.3aa00f66.chunk.js.map": "/open-studio/static/js/2.3aa00f66.chunk.js.map",
     "index.html": "/open-studio/index.html",
-    "precache-manifest.607746744d57f8a5d3f42e433dc153a8.js": "/open-studio/precache-manifest.607746744d57f8a5d3f42e433dc153a8.js",
+    "precache-manifest.74dab7cc69e0e326e7c23d1f78de7166.js": "/open-studio/precache-manifest.74dab7cc69e0e326e7c23d1f78de7166.js",
     "service-worker.js": "/open-studio/service-worker.js",
     "static/css/main.caf43709.chunk.css.map": "/open-studio/static/css/main.caf43709.chunk.css.map",
     "static/media/90 Realm.wav": "/open-studio/static/media/90 Realm.aaa23448.wav",
@@ -52,6 +52,6 @@
     "static/js/runtime-main.690290e3.js",
     "static/js/2.3aa00f66.chunk.js",
     "static/css/main.caf43709.chunk.css",
-    "static/js/main.80eba061.chunk.js"
+    "static/js/main.92d3aaa3.chunk.js"
   ]
 }
